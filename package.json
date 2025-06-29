@@ -2,24 +2,12 @@
   "name": "blogging-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/1234tayyab/Blogging-Website.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/1234tayyab/Blogging-Website/issues"
-  },
-  "homepage": "https://github.com/1234tayyab/Blogging-Website#readme",
   "devDependencies": {
-    "htmlhint": "^1.6.3",
-    "parcel": "^2.15.4",
-    "stylelint": "^16.21.0"
+    "htmlhint": "^latest",
+    "parcel": "^latest",
+    "stylelint": "^latest"
   }
 }
